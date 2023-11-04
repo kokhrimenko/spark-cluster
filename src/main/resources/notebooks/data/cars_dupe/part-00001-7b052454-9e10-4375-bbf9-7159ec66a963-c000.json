@@ -1,0 +1,136 @@
+{"Acceleration":17.7,"Cylinders":6,"Displacement":225.0,"Horsepower":100,"Miles_per_Gallon":20.0,"Name":"dodge aspen se","Origin":"USA","Weight_in_lbs":3651,"Year":"1976-01-01"}
+{"Acceleration":13.0,"Cylinders":8,"Displacement":360.0,"Horsepower":170,"Miles_per_Gallon":13.0,"Name":"plymouth custom suburb","Origin":"USA","Weight_in_lbs":4654,"Year":"1973-01-01"}
+{"Acceleration":14.0,"Cylinders":4,"Displacement":113.0,"Horsepower":95,"Miles_per_Gallon":25.0,"Name":"toyota corona","Origin":"Japan","Weight_in_lbs":2228,"Year":"1971-01-01"}
+{"Acceleration":16.8,"Cylinders":4,"Displacement":85.0,"Horsepower":70,"Miles_per_Gallon":33.5,"Name":"datsun f-10 hatchback","Origin":"Japan","Weight_in_lbs":1945,"Year":"1977-01-01"}
+{"Acceleration":11.4,"Cylinders":6,"Displacement":168.0,"Horsepower":132,"Miles_per_Gallon":32.7,"Name":"datsun 280-zx","Origin":"Japan","Weight_in_lbs":2910,"Year":"1980-01-01"}
+{"Acceleration":15.3,"Cylinders":4,"Displacement":89.0,"Horsepower":62,"Miles_per_Gallon":29.8,"Name":"vokswagen rabbit","Origin":"Europe","Weight_in_lbs":1845,"Year":"1980-01-01"}
+{"Acceleration":15.0,"Cylinders":8,"Displacement":302.0,"Horsepower":130,"Miles_per_Gallon":13.0,"Name":"ford f108","Origin":"USA","Weight_in_lbs":3870,"Year":"1976-01-01"}
+{"Acceleration":16.9,"Cylinders":4,"Displacement":108.0,"Horsepower":70,"Miles_per_Gallon":34.0,"Name":"toyota corolla","Origin":"Japan","Weight_in_lbs":2245,"Year":"1982-01-01"}
+{"Acceleration":17.7,"Cylinders":4,"Displacement":98.0,"Horsepower":79,"Miles_per_Gallon":26.0,"Name":"dodge colt","Origin":"USA","Weight_in_lbs":2255,"Year":"1976-01-01"}
+{"Acceleration":17.5,"Cylinders":4,"Displacement":110.0,"Horsepower":87,"Miles_per_Gallon":25.0,"Name":"peugeot 504","Origin":"Europe","Weight_in_lbs":2672,"Year":"1970-01-01"}
+{"Acceleration":18.3,"Cylinders":4,"Displacement":120.0,"Horsepower":74,"Miles_per_Gallon":31.6,"Name":"mazda 626","Origin":"Japan","Weight_in_lbs":2635,"Year":"1982-01-01"}
+{"Acceleration":14.9,"Cylinders":4,"Displacement":119.0,"Horsepower":97,"Miles_per_Gallon":23.9,"Name":"datsun 200-sx","Origin":"Japan","Weight_in_lbs":2405,"Year":"1978-01-01"}
+{"Acceleration":11.6,"Cylinders":4,"Displacement":135.0,"Horsepower":84,"Miles_per_Gallon":32.0,"Name":"dodge rampage","Origin":"USA","Weight_in_lbs":2295,"Year":"1982-01-01"}
+{"Acceleration":11.4,"Cylinders":8,"Displacement":350.0,"Horsepower":170,"Miles_per_Gallon":15.5,"Name":"chevrolet monte carlo landau","Origin":"USA","Weight_in_lbs":4165,"Year":"1977-01-01"}
+{"Acceleration":21.0,"Cylinders":4,"Displacement":97.0,"Horsepower":46,"Miles_per_Gallon":26.0,"Name":"volkswagen super beetle","Origin":"Europe","Weight_in_lbs":1950,"Year":"1973-01-01"}
+{"Acceleration":19.5,"Cylinders":4,"Displacement":79.0,"Horsepower":70,"Miles_per_Gallon":30.0,"Name":"peugeot 304","Origin":"Europe","Weight_in_lbs":2074,"Year":"1971-01-01"}
+{"Acceleration":19.0,"Cylinders":6,"Displacement":225.0,"Horsepower":95,"Miles_per_Gallon":18.0,"Name":"plymouth fury","Origin":"USA","Weight_in_lbs":3785,"Year":"1975-01-01"}
+{"Acceleration":17.3,"Cylinders":4,"Displacement":89.0,"Horsepower":62,"Miles_per_Gallon":37.7,"Name":"toyota tercel","Origin":"Japan","Weight_in_lbs":2050,"Year":"1982-01-01"}
+{"Acceleration":14.5,"Cylinders":4,"Displacement":121.0,"Horsepower":98,"Miles_per_Gallon":22.0,"Name":"volvo 244dl","Origin":"Europe","Weight_in_lbs":2945,"Year":"1975-01-01"}
+{"Acceleration":8.5,"Cylinders":8,"Displacement":390.0,"Horsepower":190,"Miles_per_Gallon":15.0,"Name":"amc ambassador dpl","Origin":"USA","Weight_in_lbs":3850,"Year":"1970-01-01"}
+{"Acceleration":18.6,"Cylinders":4,"Displacement":120.0,"Horsepower":79,"Miles_per_Gallon":28.0,"Name":"ford ranger","Origin":"USA","Weight_in_lbs":2625,"Year":"1982-01-01"}
+{"Acceleration":13.5,"Cylinders":3,"Displacement":70.0,"Horsepower":97,"Miles_per_Gallon":19.0,"Name":"mazda rx2 coupe","Origin":"Japan","Weight_in_lbs":2330,"Year":"1972-01-01"}
+{"Acceleration":14.5,"Cylinders":8,"Displacement":318.0,"Horsepower":150,"Miles_per_Gallon":16.0,"Name":"plymouth grand fury","Origin":"USA","Weight_in_lbs":4498,"Year":"1975-01-01"}
+{"Acceleration":14.0,"Cylinders":8,"Displacement":318.0,"Horsepower":150,"Miles_per_Gallon":13.0,"Name":"dodge d100","Origin":"USA","Weight_in_lbs":3755,"Year":"1976-01-01"}
+{"Acceleration":18.1,"Cylinders":4,"Displacement":140.0,"Horsepower":88,"Miles_per_Gallon":26.4,"Name":"ford fairmont","Origin":"USA","Weight_in_lbs":2870,"Year":"1980-01-01"}
+{"Acceleration":11.0,"Cylinders":8,"Displacement":350.0,"Horsepower":180,"Miles_per_Gallon":11.0,"Name":"oldsmobile omega","Origin":"USA","Weight_in_lbs":3664,"Year":"1973-01-01"}
+{"Acceleration":18.0,"Cylinders":4,"Displacement":112.0,"Horsepower":88,"Miles_per_Gallon":34.0,"Name":"chevrolet cavalier 2-door","Origin":"USA","Weight_in_lbs":2395,"Year":"1982-01-01"}
+{"Acceleration":16.0,"Cylinders":6,"Displacement":225.0,"Horsepower":95,"Miles_per_Gallon":19.0,"Name":"plymouth valiant custom","Origin":"USA","Weight_in_lbs":3264,"Year":"1975-01-01"}
+{"Acceleration":17.0,"Cylinders":4,"Displacement":107.0,"Horsepower":72,"Miles_per_Gallon":32.4,"Name":"honda Accelerationord","Origin":"Japan","Weight_in_lbs":2290,"Year":"1980-01-01"}
+{"Acceleration":14.0,"Cylinders":8,"Displacement":400.0,"Horsepower":150,"Miles_per_Gallon":11.0,"Name":"chevrolet impala","Origin":"USA","Weight_in_lbs":4997,"Year":"1973-01-01"}
+{"Acceleration":11.5,"Cylinders":8,"Displacement":304.0,"Horsepower":150,"Miles_per_Gallon":14.0,"Name":"amc matador","Origin":"USA","Weight_in_lbs":3672,"Year":"1973-01-01"}
+{"Acceleration":15.8,"Cylinders":6,"Displacement":163.0,"Horsepower":133,"Miles_per_Gallon":16.2,"Name":"peugeot 604sl","Origin":"Europe","Weight_in_lbs":3410,"Year":"1978-01-01"}
+{"Acceleration":13.7,"Cylinders":8,"Displacement":318.0,"Horsepower":145,"Miles_per_Gallon":15.5,"Name":"dodge monaco brougham","Origin":"USA","Weight_in_lbs":4140,"Year":"1977-01-01"}
+{"Acceleration":15.4,"Cylinders":6,"Displacement":231.0,"Horsepower":115,"Miles_per_Gallon":21.5,"Name":"pontiac lemans v6","Origin":"USA","Weight_in_lbs":3245,"Year":"1979-01-01"}
+{"Acceleration":12.5,"Cylinders":8,"Displacement":305.0,"Horsepower":145,"Miles_per_Gallon":17.5,"Name":"chevrolet caprice classic","Origin":"USA","Weight_in_lbs":3880,"Year":"1977-01-01"}
+{"Acceleration":17.0,"Cylinders":4,"Displacement":97.0,"Horsepower":92,"Miles_per_Gallon":28.0,"Name":"datsun 510 (sw)","Origin":"Japan","Weight_in_lbs":2288,"Year":"1972-01-01"}
+{"Acceleration":18.2,"Cylinders":6,"Displacement":200.0,"Horsepower":95,"Miles_per_Gallon":20.5,"Name":"chevrolet malibu","Origin":"USA","Weight_in_lbs":3155,"Year":"1978-01-01"}
+{"Acceleration":10.5,"Cylinders":8,"Displacement":302.0,"Horsepower":140,"Miles_per_Gallon":17.0,"Name":"ford torino","Origin":"USA","Weight_in_lbs":3449,"Year":"1970-01-01"}
+{"Acceleration":16.5,"Cylinders":6,"Displacement":225.0,"Horsepower":105,"Miles_per_Gallon":18.0,"Name":"plymouth satellite sebring","Origin":"USA","Weight_in_lbs":3613,"Year":"1974-01-01"}
+{"Acceleration":23.5,"Cylinders":4,"Displacement":97.0,"Horsepower":54,"Miles_per_Gallon":23.0,"Name":"volkswagen type 3","Origin":"Europe","Weight_in_lbs":2254,"Year":"1972-01-01"}
+{"Acceleration":16.5,"Cylinders":6,"Displacement":225.0,"Horsepower":105,"Miles_per_Gallon":18.0,"Name":"plymouth valiant","Origin":"USA","Weight_in_lbs":3121,"Year":"1973-01-01"}
+{"Acceleration":20.5,"Cylinders":4,"Displacement":97.0,"Horsepower":46,"Miles_per_Gallon":26.0,"Name":"volkswagen 1131 deluxe sedan","Origin":"Europe","Weight_in_lbs":1835,"Year":"1970-01-01"}
+{"Acceleration":12.0,"Cylinders":8,"Displacement":350.0,"Horsepower":165,"Miles_per_Gallon":13.0,"Name":"chevrolet impala","Origin":"USA","Weight_in_lbs":4274,"Year":"1972-01-01"}
+{"Acceleration":15.2,"Cylinders":4,"Displacement":108.0,"Horsepower":75,"Miles_per_Gallon":32.2,"Name":"toyota corolla","Origin":"Japan","Weight_in_lbs":2265,"Year":"1980-01-01"}
+{"Acceleration":18.5,"Cylinders":4,"Displacement":122.0,"Horsepower":85,"Miles_per_Gallon":19.0,"Name":"ford pinto","Origin":"USA","Weight_in_lbs":2310,"Year":"1973-01-01"}
+{"Acceleration":17.6,"Cylinders":6,"Displacement":232.0,"Horsepower":90,"Miles_per_Gallon":22.5,"Name":"amc hornet","Origin":"USA","Weight_in_lbs":3085,"Year":"1976-01-01"}
+{"Acceleration":17.6,"Cylinders":6,"Displacement":200.0,"Horsepower":81,"Miles_per_Gallon":24.0,"Name":"ford maverick","Origin":"USA","Weight_in_lbs":3012,"Year":"1976-01-01"}
+{"Acceleration":16.0,"Cylinders":4,"Displacement":91.0,"Horsepower":68,"Miles_per_Gallon":34.1,"Name":"mazda glc 4","Origin":"Japan","Weight_in_lbs":1985,"Year":"1982-01-01"}
+{"Acceleration":13.0,"Cylinders":8,"Displacement":318.0,"Horsepower":150,"Miles_per_Gallon":14.0,"Name":"plymouth fury iii","Origin":"USA","Weight_in_lbs":4096,"Year":"1971-01-01"}
+{"Acceleration":17.0,"Cylinders":4,"Displacement":120.0,"Horsepower":88,"Miles_per_Gallon":23.0,"Name":"peugeot 504","Origin":"Europe","Weight_in_lbs":2957,"Year":"1975-01-01"}
+{"Acceleration":22.2,"Cylinders":4,"Displacement":85.0,"Horsepower":52,"Miles_per_Gallon":29.0,"Name":"chevrolet chevette","Origin":"USA","Weight_in_lbs":2035,"Year":"1976-01-01"}
+{"Acceleration":16.5,"Cylinders":4,"Displacement":122.0,"Horsepower":86,"Miles_per_Gallon":21.0,"Name":"ford pinto runabout","Origin":"USA","Weight_in_lbs":2226,"Year":"1972-01-01"}
+{"Acceleration":17.0,"Cylinders":6,"Displacement":250.0,"Horsepower":100,"Miles_per_Gallon":16.0,"Name":"chevrolet chevelle malibu classic","Origin":"USA","Weight_in_lbs":3781,"Year":"1974-01-01"}
+{"Acceleration":17.3,"Cylinders":4,"Displacement":140.0,"Horsepower":88,"Miles_per_Gallon":22.3,"Name":"ford fairmont 4","Origin":"USA","Weight_in_lbs":2890,"Year":"1979-01-01"}
+{"Acceleration":18.7,"Cylinders":6,"Displacement":225.0,"Horsepower":90,"Miles_per_Gallon":19.1,"Name":"dodge aspen","Origin":"USA","Weight_in_lbs":3381,"Year":"1980-01-01"}
+{"Acceleration":14.0,"Cylinders":8,"Displacement":307.0,"Horsepower":130,"Miles_per_Gallon":13.0,"Name":"chevrolet chevelle concours (sw)","Origin":"USA","Weight_in_lbs":4098,"Year":"1972-01-01"}
+{"Acceleration":14.5,"Cylinders":6,"Displacement":250.0,"Horsepower":88,"Miles_per_Gallon":18.0,"Name":"ford mustang","Origin":"USA","Weight_in_lbs":3139,"Year":"1971-01-01"}
+{"Acceleration":15.0,"Cylinders":4,"Displacement":91.0,"Horsepower":67,"Miles_per_Gallon":38.0,"Name":"honda civic","Origin":"Japan","Weight_in_lbs":1965,"Year":"1982-01-01"}
+{"Acceleration":13.0,"Cylinders":8,"Displacement":350.0,"Horsepower":175,"Miles_per_Gallon":13.0,"Name":"buick century 350","Origin":"USA","Weight_in_lbs":4100,"Year":"1973-01-01"}
+{"Acceleration":15.0,"Cylinders":4,"Displacement":115.0,"Horsepower":95,"Miles_per_Gallon":23.0,"Name":"audi 100ls","Origin":"Europe","Weight_in_lbs":2694,"Year":"1975-01-01"}
+{"Acceleration":16.9,"Cylinders":6,"Displacement":231.0,"Horsepower":105,"Miles_per_Gallon":20.5,"Name":"buick skylark","Origin":"USA","Weight_in_lbs":3425,"Year":"1977-01-01"}
+{"Acceleration":14.9,"Cylinders":4,"Displacement":105.0,"Horsepower":63,"Miles_per_Gallon":34.7,"Name":"plymouth horizon 4","Origin":"USA","Weight_in_lbs":2215,"Year":"1982-01-01"}
+{"Acceleration":14.5,"Cylinders":4,"Displacement":156.0,"Horsepower":92,"Miles_per_Gallon":26.0,"Name":"chrysler lebaron medallion","Origin":"USA","Weight_in_lbs":2585,"Year":"1982-01-01"}
+{"Acceleration":8.0,"Cylinders":8,"Displacement":340.0,"Horsepower":160,"Miles_per_Gallon":14.0,"Name":"plymouth cuda 340","Origin":"USA","Weight_in_lbs":3609,"Year":"1970-01-01"}
+{"Acceleration":11.0,"Cylinders":8,"Displacement":360.0,"Horsepower":175,"Name":"amc rebel sst (sw)","Origin":"USA","Weight_in_lbs":3850,"Year":"1970-01-01"}
+{"Acceleration":12.5,"Cylinders":4,"Displacement":121.0,"Horsepower":113,"Miles_per_Gallon":26.0,"Name":"bmw 2002","Origin":"Europe","Weight_in_lbs":2234,"Year":"1970-01-01"}
+{"Acceleration":14.5,"Cylinders":4,"Displacement":88.0,"Horsepower":76,"Miles_per_Gallon":30.0,"Name":"fiat 124b","Origin":"Europe","Weight_in_lbs":2065,"Year":"1971-01-01"}
+{"Acceleration":19.4,"Cylinders":4,"Displacement":78.0,"Horsepower":52,"Miles_per_Gallon":32.8,"Name":"mazda glc deluxe","Origin":"Japan","Weight_in_lbs":1985,"Year":"1978-01-01"}
+{"Acceleration":17.3,"Cylinders":4,"Displacement":98.0,"Horsepower":70,"Miles_per_Gallon":36.0,"Name":"mercury lynx l","Origin":"USA","Weight_in_lbs":2125,"Year":"1982-01-01"}
+{"Acceleration":19.0,"Cylinders":6,"Displacement":250.0,"Horsepower":98,"Miles_per_Gallon":18.5,"Name":"ford granada","Origin":"USA","Weight_in_lbs":3525,"Year":"1977-01-01"}
+{"Acceleration":16.8,"Cylinders":4,"Displacement":108.0,"Horsepower":75,"Miles_per_Gallon":32.4,"Name":"toyota corolla","Origin":"Japan","Weight_in_lbs":2350,"Year":"1982-01-01"}
+{"Acceleration":16.2,"Cylinders":4,"Displacement":112.0,"Horsepower":85,"Miles_per_Gallon":31.0,"Name":"pontiac j2000 se hatchback","Origin":"USA","Weight_in_lbs":2575,"Year":"1982-01-01"}
+{"Acceleration":17.5,"Cylinders":4,"Displacement":91.0,"Horsepower":53,"Miles_per_Gallon":33.0,"Name":"honda civic cvcc","Origin":"Japan","Weight_in_lbs":1795,"Year":"1975-01-01"}
+{"Acceleration":11.5,"Cylinders":8,"Displacement":400.0,"Horsepower":170,"Miles_per_Gallon":16.0,"Name":"pontiac catalina","Origin":"USA","Weight_in_lbs":4668,"Year":"1975-01-01"}
+{"Acceleration":12.0,"Cylinders":8,"Displacement":350.0,"Horsepower":145,"Miles_per_Gallon":13.0,"Name":"chevy c10","Origin":"USA","Weight_in_lbs":4055,"Year":"1976-01-01"}
+{"Acceleration":21.0,"Cylinders":6,"Displacement":250.0,"Horsepower":78,"Miles_per_Gallon":18.0,"Name":"ford granada ghia","Origin":"USA","Weight_in_lbs":3574,"Year":"1976-01-01"}
+{"Acceleration":19.5,"Cylinders":6,"Displacement":250.0,"Horsepower":72,"Miles_per_Gallon":15.0,"Name":"ford maverick","Origin":"USA","Weight_in_lbs":3158,"Year":"1975-01-01"}
+{"Acceleration":11.0,"Cylinders":8,"Displacement":440.0,"Horsepower":215,"Miles_per_Gallon":13.0,"Name":"chrysler new yorker brougham","Origin":"USA","Weight_in_lbs":4735,"Year":"1973-01-01"}
+{"Acceleration":14.0,"Cylinders":6,"Displacement":155.0,"Horsepower":107,"Miles_per_Gallon":21.0,"Name":"mercury capri v6","Origin":"USA","Weight_in_lbs":2472,"Year":"1973-01-01"}
+{"Acceleration":19.0,"Cylinders":4,"Displacement":83.0,"Horsepower":61,"Miles_per_Gallon":32.0,"Name":"datsun 710","Origin":"Japan","Weight_in_lbs":2003,"Year":"1974-01-01"}
+{"Acceleration":18.5,"Cylinders":4,"Displacement":98.0,"Horsepower":68,"Miles_per_Gallon":31.5,"Name":"honda Accelerationord cvcc","Origin":"Japan","Weight_in_lbs":2045,"Year":"1977-01-01"}
+{"Acceleration":17.1,"Cylinders":6,"Displacement":200.0,"Horsepower":88,"Miles_per_Gallon":20.2,"Name":"ford granada gl","Origin":"USA","Weight_in_lbs":3060,"Year":"1982-01-01"}
+{"Acceleration":19.5,"Cylinders":4,"Displacement":140.0,"Horsepower":90,"Miles_per_Gallon":20.0,"Name":"chevrolet vega","Origin":"USA","Weight_in_lbs":2408,"Year":"1972-01-01"}
+{"Acceleration":19.0,"Cylinders":8,"Displacement":350.0,"Horsepower":105,"Miles_per_Gallon":26.6,"Name":"oldsmobile cutlass ls","Origin":"USA","Weight_in_lbs":3725,"Year":"1982-01-01"}
+{"Acceleration":14.5,"Cylinders":8,"Displacement":302.0,"Horsepower":137,"Miles_per_Gallon":14.0,"Name":"ford gran torino","Origin":"USA","Weight_in_lbs":4042,"Year":"1973-01-01"}
+{"Acceleration":15.0,"Cylinders":6,"Displacement":232.0,"Horsepower":100,"Miles_per_Gallon":18.0,"Name":"amc gremlin","Origin":"USA","Weight_in_lbs":2789,"Year":"1973-01-01"}
+{"Acceleration":16.5,"Cylinders":4,"Displacement":98.0,"Horsepower":68,"Miles_per_Gallon":30.0,"Name":"chevrolet chevette","Origin":"USA","Weight_in_lbs":2155,"Year":"1978-01-01"}
+{"Acceleration":15.5,"Cylinders":4,"Displacement":113.0,"Horsepower":95,"Miles_per_Gallon":24.0,"Name":"toyota corona hardtop","Origin":"Japan","Weight_in_lbs":2278,"Year":"1972-01-01"}
+{"Acceleration":16.5,"Cylinders":4,"Displacement":122.0,"Horsepower":80,"Miles_per_Gallon":26.0,"Name":"ford pinto","Origin":"USA","Weight_in_lbs":2451,"Year":"1974-01-01"}
+{"Acceleration":18.2,"Cylinders":6,"Displacement":232.0,"Horsepower":90,"Miles_per_Gallon":20.2,"Name":"amc concord dl 6","Origin":"USA","Weight_in_lbs":3265,"Year":"1979-01-01"}
+{"Acceleration":14.5,"Cylinders":4,"Displacement":97.0,"Horsepower":88,"Miles_per_Gallon":27.0,"Name":"datsun pl510","Origin":"Japan","Weight_in_lbs":2130,"Year":"1971-01-01"}
+{"Acceleration":14.0,"Cylinders":8,"Displacement":360.0,"Horsepower":215,"Miles_per_Gallon":10.0,"Name":"ford f250","Origin":"USA","Weight_in_lbs":4615,"Year":"1970-01-01"}
+{"Acceleration":12.0,"Cylinders":8,"Displacement":400.0,"Horsepower":170,"Miles_per_Gallon":13.0,"Name":"ford country squire (sw)","Origin":"USA","Weight_in_lbs":4746,"Year":"1971-01-01"}
+{"Acceleration":8.5,"Cylinders":8,"Displacement":440.0,"Horsepower":215,"Miles_per_Gallon":14.0,"Name":"plymouth fury iii","Origin":"USA","Weight_in_lbs":4312,"Year":"1970-01-01"}
+{"Acceleration":11.5,"Cylinders":8,"Displacement":350.0,"Horsepower":165,"Name":"chevrolet chevelle concours (sw)","Origin":"USA","Weight_in_lbs":4142,"Year":"1970-01-01"}
+{"Acceleration":19.0,"Cylinders":4,"Displacement":97.0,"Horsepower":60,"Miles_per_Gallon":27.0,"Name":"volkswagen model 111","Origin":"Europe","Weight_in_lbs":1834,"Year":"1971-01-01"}
+{"Acceleration":16.7,"Cylinders":6,"Displacement":200.0,"Horsepower":85,"Miles_per_Gallon":20.8,"Name":"mercury zephyr","Origin":"USA","Weight_in_lbs":3070,"Year":"1978-01-01"}
+{"Acceleration":15.0,"Cylinders":8,"Displacement":267.0,"Horsepower":125,"Miles_per_Gallon":19.2,"Name":"chevrolet malibu classic (sw)","Origin":"USA","Weight_in_lbs":3605,"Year":"1979-01-01"}
+{"Acceleration":11.5,"Cylinders":8,"Displacement":429.0,"Horsepower":198,"Miles_per_Gallon":12.0,"Name":"mercury marquis brougham","Origin":"USA","Weight_in_lbs":4952,"Year":"1973-01-01"}
+{"Acceleration":12.9,"Cylinders":4,"Displacement":135.0,"Horsepower":84,"Miles_per_Gallon":30.0,"Name":"plymouth reliant","Origin":"USA","Weight_in_lbs":2385,"Year":"1982-01-01"}
+{"Acceleration":13.5,"Cylinders":4,"Displacement":134.0,"Horsepower":96,"Miles_per_Gallon":24.0,"Name":"toyota corona","Origin":"Japan","Weight_in_lbs":2702,"Year":"1975-01-01"}
+{"Acceleration":19.5,"Cylinders":4,"Displacement":68.0,"Horsepower":49,"Miles_per_Gallon":29.0,"Name":"fiat 128","Origin":"Europe","Weight_in_lbs":1867,"Year":"1973-01-01"}
+{"Acceleration":14.8,"Cylinders":4,"Displacement":119.0,"Horsepower":100,"Miles_per_Gallon":32.9,"Name":"datsun 200sx","Origin":"Japan","Weight_in_lbs":2615,"Year":"1982-01-01"}
+{"Acceleration":13.5,"Cylinders":8,"Displacement":318.0,"Horsepower":150,"Miles_per_Gallon":15.0,"Name":"plymouth fury iii","Origin":"USA","Weight_in_lbs":4135,"Year":"1972-01-01"}
+{"Acceleration":16.7,"Cylinders":6,"Displacement":168.0,"Horsepower":120,"Miles_per_Gallon":16.5,"Name":"mercedes-benz 280s","Origin":"Europe","Weight_in_lbs":3820,"Year":"1976-01-01"}
+{"Acceleration":13.5,"Cylinders":8,"Displacement":351.0,"Horsepower":153,"Miles_per_Gallon":14.0,"Name":"ford galaxie 500","Origin":"USA","Weight_in_lbs":4154,"Year":"1971-01-01"}
+{"Acceleration":14.4,"Cylinders":4,"Displacement":156.0,"Horsepower":105,"Miles_per_Gallon":27.9,"Name":"dodge colt","Origin":"USA","Weight_in_lbs":2800,"Year":"1980-01-01"}
+{"Acceleration":16.5,"Cylinders":4,"Displacement":97.0,"Horsepower":88,"Miles_per_Gallon":27.0,"Name":"toyota corolla 1600 (sw)","Origin":"Japan","Weight_in_lbs":2100,"Year":"1972-01-01"}
+{"Acceleration":16.0,"Cylinders":4,"Displacement":135.0,"Horsepower":84,"Miles_per_Gallon":29.0,"Name":"dodge aries se","Origin":"USA","Weight_in_lbs":2525,"Year":"1982-01-01"}
+{"Acceleration":15.4,"Cylinders":8,"Displacement":305.0,"Horsepower":130,"Miles_per_Gallon":17.0,"Name":"chevrolet caprice classic","Origin":"USA","Weight_in_lbs":3840,"Year":"1979-01-01"}
+{"Acceleration":24.6,"Cylinders":4,"Displacement":97.0,"Horsepower":52,"Miles_per_Gallon":44.0,"Name":"vw pickup","Origin":"Europe","Weight_in_lbs":2130,"Year":"1982-01-01"}
+{"Acceleration":14.7,"Cylinders":4,"Displacement":119.0,"Horsepower":97,"Miles_per_Gallon":27.2,"Name":"datsun 510","Origin":"Japan","Weight_in_lbs":2300,"Year":"1978-01-01"}
+{"Acceleration":20.7,"Cylinders":4,"Displacement":98.0,"Horsepower":65,"Miles_per_Gallon":29.9,"Name":"ford escort 2h","Origin":"USA","Weight_in_lbs":2380,"Year":"1982-01-01"}
+{"Acceleration":15.5,"Cylinders":4,"Displacement":140.0,"Horsepower":90,"Miles_per_Gallon":28.0,"Name":"chevrolet vega 2300","Origin":"USA","Weight_in_lbs":2264,"Year":"1971-01-01"}
+{"Acceleration":19.5,"Cylinders":4,"Displacement":140.0,"Horsepower":72,"Miles_per_Gallon":21.0,"Name":"chevrolet vega","Origin":"USA","Weight_in_lbs":2401,"Year":"1973-01-01"}
+{"Acceleration":19.0,"Cylinders":4,"Displacement":98.0,"Miles_per_Gallon":25.0,"Name":"ford pinto","Origin":"USA","Weight_in_lbs":2046,"Year":"1971-01-01"}
+{"Acceleration":12.6,"Cylinders":6,"Displacement":173.0,"Horsepower":110,"Miles_per_Gallon":23.5,"Name":"chevrolet citation","Origin":"USA","Weight_in_lbs":2725,"Year":"1982-01-01"}
+{"Acceleration":12.0,"Cylinders":8,"Displacement":302.0,"Horsepower":129,"Miles_per_Gallon":13.0,"Name":"ford mustang ii","Origin":"USA","Weight_in_lbs":3169,"Year":"1975-01-01"}
+{"Acceleration":20.1,"Cylinders":4,"Displacement":151.0,"Horsepower":90,"Miles_per_Gallon":24.3,"Name":"amc concord","Origin":"USA","Weight_in_lbs":3003,"Year":"1980-01-01"}
+{"Acceleration":17.0,"Cylinders":4,"Displacement":140.0,"Horsepower":75,"Miles_per_Gallon":25.0,"Name":"chevrolet vega","Origin":"USA","Weight_in_lbs":2542,"Year":"1974-01-01"}
+{"Acceleration":15.5,"Cylinders":6,"Displacement":250.0,"Horsepower":100,"Miles_per_Gallon":17.0,"Name":"chevrolet chevelle malibu","Origin":"USA","Weight_in_lbs":3329,"Year":"1971-01-01"}
+{"Acceleration":13.5,"Cylinders":8,"Displacement":318.0,"Horsepower":150,"Miles_per_Gallon":14.0,"Name":"dodge coronet custom (sw)","Origin":"USA","Weight_in_lbs":4457,"Year":"1974-01-01"}
+{"Acceleration":19.2,"Cylinders":4,"Displacement":85.0,"Horsepower":65,"Miles_per_Gallon":40.8,"Name":"datsun 210","Origin":"Japan","Weight_in_lbs":2110,"Year":"1980-01-01"}
+{"Acceleration":19.0,"Cylinders":4,"Displacement":97.0,"Horsepower":88,"Miles_per_Gallon":20.0,"Name":"toyota carina","Origin":"Japan","Weight_in_lbs":2279,"Year":"1973-01-01"}
+{"Acceleration":21.0,"Cylinders":4,"Displacement":71.0,"Horsepower":65,"Miles_per_Gallon":32.0,"Name":"toyota corolla 1200","Origin":"Japan","Weight_in_lbs":1836,"Year":"1974-01-01"}
+{"Acceleration":15.7,"Cylinders":4,"Displacement":135.0,"Horsepower":84,"Miles_per_Gallon":27.2,"Name":"plymouth reliant","Origin":"USA","Weight_in_lbs":2490,"Year":"1982-01-01"}
+{"Acceleration":15.0,"Cylinders":4,"Displacement":119.0,"Horsepower":92,"Miles_per_Gallon":37.0,"Name":"datsun 510 hatchback","Origin":"Japan","Weight_in_lbs":2434,"Year":"1980-01-01"}
+{"Acceleration":17.0,"Cylinders":6,"Displacement":262.0,"Horsepower":85,"Miles_per_Gallon":38.0,"Name":"oldsmobile cutlass ciera (diesel)","Origin":"USA","Weight_in_lbs":3015,"Year":"1982-01-01"}
+{"Acceleration":14.7,"Cylinders":6,"Displacement":232.0,"Horsepower":112,"Miles_per_Gallon":22.0,"Name":"ford granada l","Origin":"USA","Weight_in_lbs":2835,"Year":"1982-01-01"}
+{"Acceleration":18.6,"Cylinders":4,"Displacement":112.0,"Horsepower":88,"Miles_per_Gallon":27.0,"Name":"chevrolet cavalier wagon","Origin":"USA","Weight_in_lbs":2640,"Year":"1982-01-01"}
+{"Acceleration":13.5,"Cylinders":8,"Displacement":318.0,"Horsepower":210,"Miles_per_Gallon":11.0,"Name":"dodge d200","Origin":"USA","Weight_in_lbs":4382,"Year":"1970-01-01"}
+{"Acceleration":10.0,"Cylinders":8,"Displacement":455.0,"Horsepower":225,"Miles_per_Gallon":14.0,"Name":"buick estate wagon (sw)","Origin":"USA","Weight_in_lbs":3086,"Year":"1970-01-01"}
+{"Acceleration":14.0,"Cylinders":4,"Displacement":114.0,"Horsepower":91,"Miles_per_Gallon":20.0,"Name":"audi 100ls","Origin":"Europe","Weight_in_lbs":2582,"Year":"1973-01-01"}
+{"Acceleration":20.1,"Cylinders":5,"Displacement":183.0,"Horsepower":77,"Miles_per_Gallon":25.4,"Name":"mercedes benz 300d","Origin":"Europe","Weight_in_lbs":3530,"Year":"1979-01-01"}
+{"Acceleration":16.6,"Cylinders":4,"Displacement":98.0,"Horsepower":68,"Miles_per_Gallon":29.5,"Name":"honda Accelerationord lx","Origin":"Japan","Weight_in_lbs":2135,"Year":"1978-01-01"}
+{"Acceleration":14.7,"Cylinders":4,"Displacement":105.0,"Horsepower":63,"Miles_per_Gallon":38.0,"Name":"plymouth horizon miser","Origin":"USA","Weight_in_lbs":2125,"Year":"1982-01-01"}
