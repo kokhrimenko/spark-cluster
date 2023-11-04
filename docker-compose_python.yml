@@ -1,0 +1,43 @@
+version: '2'
+services:
+  spark-master:
+    image: apache-spark-python-base:3.2.1
+    container_name: spark-master
+#    hostname: spark-master
+    ports:
+      - "9090:8080"
+      - "7077:7077"
+      - "8090:8090"
+      - "4040:4040"
+    volumes:
+      - ./src/main/resources/apps:/opt/spark-apps
+      - ./src/main/resources/data:/opt/spark-data
+      - ./src/main/resources/libs:/opt/spark-libs
+      - ./src/main/resources/tmp:/opt/spark/work
+      - ./src/main/python:/opt/python_samples
+    environment:
+#      - SPARK_LOCAL_IP=spark-master
+      - SPARK_WORKLOAD=master
+  spark-worker:
+    image: apache-spark-python-base:3.2.1
+#    container_name: spark-worker
+#    hostname: spark-worker
+    ports:
+      - "8080"
+      - "7000"
+    depends_on:
+      - spark-master
+    environment:
+      - SPARK_MASTER=spark://spark-master:7077
+      - SPARK_WORKER_CORES=2
+      - SPARK_WORKER_MEMORY=12G
+      - SPARK_DRIVER_MEMORY=2G
+      - SPARK_EXECUTOR_MEMORY=4G
+      - SPARK_WORKLOAD=worker
+#      - SPARK_LOCAL_IP=spark-worker-a
+    volumes:
+      - ./src/main/resources/apps:/opt/spark-apps
+      - ./src/main/resources/data:/opt/spark-data
+      - ./src/main/resources/libs:/opt/spark-libs
+      - ./src/main/resources/tmp:/opt/spark/work
+      - ./src/main/python:/opt/python_samples
