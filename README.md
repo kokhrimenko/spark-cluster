@@ -18,5 +18,9 @@ Sample Spark cluster (current Spark version: 3.2.1)
 2 start up cluster:  
 	>> ``docker-compose --file docker-compose_python.yml up -d --remove-orphans --scale spark-worker=3``
 
+## PostgreSQL ** for jupiter notebook Datasource lesson **
+1 start up cluster:  
+	>> ``docker-compose --file docker-compose_postgresql.yml up -d --remove-orphans``
+
 # How to use
 Spark UI will be available at: **http://localhost:9090/**
