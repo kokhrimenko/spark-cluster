@@ -1,0 +1,32 @@
+04-DF-spark-DSL.ipynb
+
+1 show all employees and their max salary over time
+`employee_salaries_df = salaries_df\
+    .groupBy(col("emp_no"))\
+    .max("salary")\
+    .select(col("max(salary)").alias("salary"), col("emp_no"))
+employees_df.join(employee_salaries_df, "emp_no")\
+    .select(\
+       concat(col("first_name"), lit(" "), col("last_name")).alias("fill_name"),\
+       col("salary")\
+).show()`
+________________________________________________________
+
+
+2 show all employees who were never managers
+`employees_df.join(dept_managers_df, "emp_no", "left_anti")
+#.where("emp_no=110800")
+.show()`
+________________________________________________________
+3 for every employee, find the difference between their salary (current/latest) and the max salary of their department (departments table) """
+`dept_average_salary = salaries_df.join(dept_emp_df, "emp_no").groupBy("dept_no").max("salary").select(col("dept_no"), col("max(salary)").alias('max_dept_salary'))
+employer_resent_salary = salaries_df.orderBy(col("from_date").desc()).dropDuplicates(['emp_no']).select(col("emp_no"), col("salary"))
+employees_with_dept = employees_df.join(dept_emp_df, "emp_no", "left").select(col("emp_no"), col("dept_no"), concat(col("first_name"), lit(" "), col("last_name")).alias("full_name"));
+employees_with_dept_and_salary = employees_with_dept.join(employer_resent_salary, "emp_no").distinct()
+
+employees_with_dept_and_salary\
+            .join(dept_average_salary, "dept_no", "left")\
+            .withColumn('salary_diff_with_department', col("salary") - col("max_dept_salary"))\
+            .select(col("full_name"),col("salary_diff_with_department"))\
+#            .where("salary_diff_with_department = 0")\
+            .show()`
