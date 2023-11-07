@@ -30,3 +30,25 @@ employees_with_dept_and_salary\
             .select(col("full_name"),col("salary_diff_with_department"))\
 #            .where("salary_diff_with_department = 0")\
             .show()`
+
+
+_______________________________________________________________________
+05-DF-spark-SQL.ipynb
+
+1 show all employees and their max salary over time
+spark.sql("""SELECT concat(emp.first_name, ' ', emp.last_name) as full_name, max(salaries.salary) as salary 
+        FROM employees emp
+            LEFT JOIN salaries ON emp.emp_no = salaries.emp_no
+        GROUP BY emp.first_name, emp.last_name
+""").show()
+________________________________________________________
+
+2 show all employees who were never managers
+#dept_managers_df.show()
+
+spark.sql("""SELECT concat(emp.first_name, ' ', emp.last_name) as full_name, emp_no
+        FROM employees emp
+            LEFT ANTI JOIN dept_manager ON emp.emp_no = dept_manager.emp_no
+""").show()
+
+# WHERE emp.emp_no=110420
