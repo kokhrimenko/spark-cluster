@@ -1,0 +1,2 @@
+{"business_id":"abs","full_address":"random_address","hours":{"Monday":{"open":"10:00","close":"20:00"},"Tuesday":{"open":"10:30","close":"19:30"}}}
+{"business_id":"temp","full_address":"another random_address","hours":{"Friday":{"open":"10:00","close":"20:00"}}}
