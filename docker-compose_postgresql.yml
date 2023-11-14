@@ -11,3 +11,4 @@ services:
       - "5432:5432"
     volumes:
       - "./src/main/resources/sql:/docker-entrypoint-initdb.d"
+      - ./src/main/resources/data:/opt/spark-data
